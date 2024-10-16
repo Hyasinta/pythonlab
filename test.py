@@ -1,5 +1,5 @@
 age = 18
-if age >=17:
+if age >=18:
   print ("vote")
 else:
-  print ("no vote")
+  print ("not eligible to vote")
